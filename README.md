@@ -1,9 +1,5 @@
 # MazeSolverX: Maze Generator and Solver
 
-![Language](https://img.shields.io/badge/Language-C++-blue.svg)
-![Library](https://img.shields.io/badge/Library-SFML-green.svg)
-![Type](https://img.shields.io/badge/Type-Academic_Project-orange.svg)
-
 ## 📖 Introduction
 [cite_start]**MazeSolverX** is a comprehensive tool developed as an **Algorithm and Problem Solving Lab** project at **Jaypee Institute of Information Technology**[cite: 1, 3, 11]. The project focuses on generating random mazes and solving them using various pathfinding algorithms. [cite_start]It provides a real-time visual demonstration of how different algorithms explore paths, offering a comparative analysis of their efficiency, accuracy, and computational complexity[cite: 29, 33].
 
